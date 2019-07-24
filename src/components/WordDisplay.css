@@ -1,0 +1,7 @@
+.Display, .Display--LetterContainer {
+  height: 80px;
+}
+
+.Display--LetterContainer {
+  margin-top: 40px;
+}
